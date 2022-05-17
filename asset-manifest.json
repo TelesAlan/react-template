@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f4d07ad.css",
+    "main.js": "/static/js/main.fb682afc.js",
+    "static/media/bg.jpg": "/static/media/bg.cbf9d70ebd962933ffc7.jpg",
+    "static/media/iot.png": "/static/media/iot.90a224d2a8293eff4aeb.png",
+    "static/media/cloud-computing.png": "/static/media/cloud-computing.1e07f5ddbfd1bd386788.png",
+    "static/media/big-data&analytics.png": "/static/media/big-data&analytics.c1215a14f26c4fceb578.png",
+    "index.html": "/index.html",
+    "main.8f4d07ad.css.map": "/static/css/main.8f4d07ad.css.map",
+    "main.fb682afc.js.map": "/static/js/main.fb682afc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f4d07ad.css",
+    "static/js/main.fb682afc.js"
+  ]
+}
