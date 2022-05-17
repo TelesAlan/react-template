@@ -8,7 +8,7 @@ import Login from "./pages/Login";
 import Error from "./pages/Error";
 export default function App() {
 	return (
-		<BrowserRouter>
+		<BrowserRouter basename={process.env.PUBLIC_URL}>
 			<ToastContainer
 				position="top-right"
 				autoClose={8000}
