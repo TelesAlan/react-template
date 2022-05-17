@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-template/static/css/main.3f4e9240.css",
-    "main.js": "/react-template/static/js/main.3f0dd882.js",
+    "main.js": "/react-template/static/js/main.476c5a9c.js",
     "static/media/bg.jpg": "/react-template/static/media/bg.cbf9d70ebd962933ffc7.jpg",
     "static/media/iot.png": "/react-template/static/media/iot.90a224d2a8293eff4aeb.png",
     "static/media/cloud-computing.png": "/react-template/static/media/cloud-computing.1e07f5ddbfd1bd386788.png",
     "static/media/big-data&analytics.png": "/react-template/static/media/big-data&analytics.c1215a14f26c4fceb578.png",
     "index.html": "/react-template/index.html",
     "main.3f4e9240.css.map": "/react-template/static/css/main.3f4e9240.css.map",
-    "main.3f0dd882.js.map": "/react-template/static/js/main.3f0dd882.js.map"
+    "main.476c5a9c.js.map": "/react-template/static/js/main.476c5a9c.js.map"
   },
   "entrypoints": [
     "static/css/main.3f4e9240.css",
-    "static/js/main.3f0dd882.js"
+    "static/js/main.476c5a9c.js"
   ]
 }
