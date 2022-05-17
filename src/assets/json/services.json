@@ -1,0 +1,25 @@
+[{
+	"icon": "/img/icons/cloud.png",
+	"title": "Cloud Migration",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec tincidunt ex. Donec varius hendrerit finibus. Morbi malesuada metus nec ipsum ornare, nec bibendum libero feugiat. Nulla non massa est."
+},{
+	"icon": "/img/icons/big-data&analytics.png",
+	"title": "Big Data & Analytics",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec tincidunt ex. Donec varius hendrerit finibus. Morbi malesuada metus nec ipsum ornare, nec bibendum libero feugiat. Nulla non massa est."
+},{
+	"icon": "/img/icons/cloud-computing.png",
+	"title": "Cloud Computing",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec tincidunt ex. Donec varius hendrerit finibus. Morbi malesuada metus nec ipsum ornare, nec bibendum libero feugiat. Nulla non massa est."
+},{
+	"icon": "/img/icons/iot.png",
+	"title": "IoT - Internet of Things",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec tincidunt ex. Donec varius hendrerit finibus. Morbi malesuada metus nec ipsum ornare, nec bibendum libero feugiat. Nulla non massa est."
+},{
+	"icon": "/img/icons/front-end.png",
+	"title": "Front-end ",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec tincidunt ex. Donec varius hendrerit finibus. Morbi malesuada metus nec ipsum ornare, nec bibendum libero feugiat. Nulla non massa est."
+},{
+	"icon": "/img/icons/back-end.png",
+	"title": "Back-end ",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec tincidunt ex. Donec varius hendrerit finibus. Morbi malesuada metus nec ipsum ornare, nec bibendum libero feugiat. Nulla non massa est."
+}]
