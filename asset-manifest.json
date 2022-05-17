@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f4d07ad.css",
-    "main.js": "/static/js/main.fb682afc.js",
-    "static/media/bg.jpg": "/static/media/bg.cbf9d70ebd962933ffc7.jpg",
-    "static/media/iot.png": "/static/media/iot.90a224d2a8293eff4aeb.png",
-    "static/media/cloud-computing.png": "/static/media/cloud-computing.1e07f5ddbfd1bd386788.png",
-    "static/media/big-data&analytics.png": "/static/media/big-data&analytics.c1215a14f26c4fceb578.png",
-    "index.html": "/index.html",
-    "main.8f4d07ad.css.map": "/static/css/main.8f4d07ad.css.map",
-    "main.fb682afc.js.map": "/static/js/main.fb682afc.js.map"
+    "main.css": "/react-template/static/css/main.7302a9a5.css",
+    "main.js": "/react-template/static/js/main.05423f8c.js",
+    "static/media/bg.jpg": "/react-template/static/media/bg.cbf9d70ebd962933ffc7.jpg",
+    "static/media/iot.png": "/react-template/static/media/iot.90a224d2a8293eff4aeb.png",
+    "static/media/cloud-computing.png": "/react-template/static/media/cloud-computing.1e07f5ddbfd1bd386788.png",
+    "static/media/big-data&analytics.png": "/react-template/static/media/big-data&analytics.c1215a14f26c4fceb578.png",
+    "index.html": "/react-template/index.html",
+    "main.7302a9a5.css.map": "/react-template/static/css/main.7302a9a5.css.map",
+    "main.05423f8c.js.map": "/react-template/static/js/main.05423f8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f4d07ad.css",
-    "static/js/main.fb682afc.js"
+    "static/css/main.7302a9a5.css",
+    "static/js/main.05423f8c.js"
   ]
 }
